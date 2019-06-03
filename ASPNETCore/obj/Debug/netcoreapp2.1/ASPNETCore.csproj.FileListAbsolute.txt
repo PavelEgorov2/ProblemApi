@@ -1,0 +1,14 @@
+C:\Users\Павел\source\repos\ASPNETCore\ASPNETCore\bin\Debug\netcoreapp2.1\ASPNETCore.deps.json
+C:\Users\Павел\source\repos\ASPNETCore\ASPNETCore\bin\Debug\netcoreapp2.1\ASPNETCore.runtimeconfig.json
+C:\Users\Павел\source\repos\ASPNETCore\ASPNETCore\bin\Debug\netcoreapp2.1\ASPNETCore.runtimeconfig.dev.json
+C:\Users\Павел\source\repos\ASPNETCore\ASPNETCore\bin\Debug\netcoreapp2.1\ASPNETCore.dll
+C:\Users\Павел\source\repos\ASPNETCore\ASPNETCore\bin\Debug\netcoreapp2.1\ASPNETCore.pdb
+C:\Users\Павел\source\repos\ASPNETCore\ASPNETCore\obj\Debug\netcoreapp2.1\ASPNETCore.csprojAssemblyReference.cache
+C:\Users\Павел\source\repos\ASPNETCore\ASPNETCore\obj\Debug\netcoreapp2.1\ASPNETCore.csproj.CoreCompileInputs.cache
+C:\Users\Павел\source\repos\ASPNETCore\ASPNETCore\obj\Debug\netcoreapp2.1\ASPNETCore.RazorAssemblyInfo.cache
+C:\Users\Павел\source\repos\ASPNETCore\ASPNETCore\obj\Debug\netcoreapp2.1\ASPNETCore.RazorAssemblyInfo.cs
+C:\Users\Павел\source\repos\ASPNETCore\ASPNETCore\obj\Debug\netcoreapp2.1\ASPNETCore.AssemblyInfoInputs.cache
+C:\Users\Павел\source\repos\ASPNETCore\ASPNETCore\obj\Debug\netcoreapp2.1\ASPNETCore.AssemblyInfo.cs
+C:\Users\Павел\source\repos\ASPNETCore\ASPNETCore\obj\Debug\netcoreapp2.1\ASPNETCore.RazorTargetAssemblyInfo.cache
+C:\Users\Павел\source\repos\ASPNETCore\ASPNETCore\obj\Debug\netcoreapp2.1\ASPNETCore.dll
+C:\Users\Павел\source\repos\ASPNETCore\ASPNETCore\obj\Debug\netcoreapp2.1\ASPNETCore.pdb
